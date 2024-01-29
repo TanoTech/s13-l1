@@ -1,0 +1,14 @@
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/bin/Debug/net8.0/s13-l1
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/bin/Debug/net8.0/s13-l1.deps.json
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/bin/Debug/net8.0/s13-l1.runtimeconfig.json
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/bin/Debug/net8.0/s13-l1.dll
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/bin/Debug/net8.0/s13-l1.pdb
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/s13-l1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/s13-l1.AssemblyInfoInputs.cache
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/s13-l1.AssemblyInfo.cs
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/s13-l1.csproj.CoreCompileInputs.cache
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/s13-l1.dll
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/refint/s13-l1.dll
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/s13-l1.pdb
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/s13-l1.genruntimeconfig.cache
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/ref/s13-l1.dll
