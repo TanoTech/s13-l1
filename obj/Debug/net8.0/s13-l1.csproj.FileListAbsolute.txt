@@ -12,3 +12,4 @@
 /Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/s13-l1.pdb
 /Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/s13-l1.genruntimeconfig.cache
 /Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/ref/s13-l1.dll
+/Users/gaetano/Desktop/VS Code/corsofullstack2023/s13-l1/obj/Debug/net8.0/s13-l1.sourcelink.json
